@@ -1,0 +1,9 @@
+*.pem
+*tfstate
+*.lock*
+*tfstate*
+.vscode/*
+.DS_Store
+.terraform
+*.tfvars
+provider.tf
